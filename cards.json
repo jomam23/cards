@@ -1,0 +1,15 @@
+[
+    { "name": "Spider-Man", "shiny": false, "image": "https://i.ebayimg.com/images/g/Z~4AAOSwewVlqjl8/s-l1200.jpg" },
+    { "name": "Iron Man", "shiny": true, "image": "https://i.pinimg.com/736x/99/12/86/991286bba0e6500c84e794918f15a72b.jpg" },
+    { "name": "Captain America", "shiny": false, "image": "https://easydrawingguides.com/wp-content/uploads/2017/07/how-to-draw-captain-america-featured-image-1200.png" },
+    { "name": "Black Widow", "shiny": false, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmW9W3ipx9CHf6aTwaZKb2QDJKyli6mu2IZg&s" },
+    { "name": "Thor", "shiny": true, "image": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/90268/98622/Marvel-Avengers-Thor-Official-Lifesize-Cardboard-Cutout-buy-now-at-starstills__87358.1693997069.jpg?c=2" },
+    { "name": "Hulk", "shiny": false, "image": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/89044/93433/Marvel-The-Incredible-Hulk-official-cardboard-cutout-buy-now-at-starstills__04700.1582849788.jpg?c=2&imbypass=on" },
+    { "name": "Doctor Strange", "shiny": true, "image": "https://collectivities.ca/cdn/shop/files/2024LoblawMarvelGoonaMission_7DoctorStrange.jpg?v=1725987416" },
+    { "name": "Black Panther", "shiny": false, "image": "https://i.ebayimg.com/images/g/ni8AAOSwedxmtoVD/s-l1200.jpg" },
+    { "name": "Drax", "shiny": false, "image": "https://www.drawingtutorials101.com/drawing-tutorials/Sci-Fi/Avengers-Endgame/drax-the-destroyer-endgame/how-to-draw-Drax-the-Destroyer--from-Avengers-Endgame-step-0.png", "price": 2.10 },
+    { "name": "Thanos", "shiny": false, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhkze9EzsPeip4c-ydpaXNKCb0CuVXRD-BQ&s", "price": 17.00 },
+    {"name": "Shuri", "shiny": true, "image": "https://blackpanthercostu.me/wp-content/uploads/2018/06/Black-Panther-Shuri-Blue-Poster-203x300.jpg", "price": 7.10}
+]
+
+
